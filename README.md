@@ -1,5 +1,5 @@
 Producer/Consumer Problem using (POSIX Semaphores and Threads)
-===================================================
+==============================================================
 
 Getting the files:
 ------------------
